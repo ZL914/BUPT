@@ -1,0 +1,4 @@
+SLOJ.C  是在北邮oj平台上通过的代码
+SL.C    是正常使用代码，有一些提示类指令
+snake.cpp  text.cpp  是使用easyx2022实现的贪吃蛇和扫雷图形化
+wuziqi.c   是c语言实现的五子棋代码
